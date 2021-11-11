@@ -86,9 +86,6 @@ using BlankMapProject.Shared;
 #nullable restore
 #line 26588 "C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\Pages\Index.razor"
        
-    private string result;
-    private string parent;
-    private string child;
     private static Dictionary<string, string> LocationCombination = new Dictionary<string, string>();
     private static Dictionary<string, bool> LocationCorrect = new Dictionary<string, bool>();
 
