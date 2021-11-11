@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hzV5YyQ1EJkopwOx39ueZ6cv0x789buTbw74gs6q330=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cFirNFEKkzKvP0gxoPlJaaHuQPQwFfXkvUmo08AMtko=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlankMapProject.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlankMapProject.dll.br"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\TQ7bJq5lCTn13fjA-SZhZpAW_a-VAkReZadRVWHFevQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-2a3OULWa59cfhEZsDSCPxEWl1z2cTwcnmVIa9j0uTY=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlankMapProject.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlankMapProject.pdb.br"
     },
@@ -286,12 +286,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\X4Eotn5zSRx1fqBnhjHBDLftfeGyeAOIcaVjn6OZ8js=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\iRZK7-qNZmBQQHIUiOKZWjdKBEimm2CCRtvvbH9iG1g=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pi1FbQmmCew66FJD3PyKW8O71FeMOt2pvBifs_i7Ci8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_HtJ9_Fg1MPVdeVsgTzzpZ15voi5t1NM8iEslqxph5A=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }

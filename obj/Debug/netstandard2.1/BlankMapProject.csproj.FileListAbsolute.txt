@@ -364,8 +364,8 @@ C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\obj\Debug\netstanda
 C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
 C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\bin\Debug\netstandard2.1\NpmJS\package-lock.json
 C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\bin\Debug\netstandard2.1\NpmJS\package.json
-C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\obj\Debug\netstandard2.1\integrity\3326GU7_MUZm3uGSVzxCCx3bjhJW1vxvlRK_JsdU3-I=.hash
-C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\obj\Debug\netstandard2.1\integrity\hzV5YyQ1EJkopwOx39ueZ6cv0x789buTbw74gs6q330=.hash
-C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\obj\Debug\netstandard2.1\integrity\TQ7bJq5lCTn13fjA-SZhZpAW_a-VAkReZadRVWHFevQ=.hash
-C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\obj\Debug\netstandard2.1\integrity\X4Eotn5zSRx1fqBnhjHBDLftfeGyeAOIcaVjn6OZ8js=.hash
 C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\obj\Debug\netstandard2.1\integrity\pi1FbQmmCew66FJD3PyKW8O71FeMOt2pvBifs_i7Ci8=.hash
+C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\obj\Debug\netstandard2.1\integrity\cFirNFEKkzKvP0gxoPlJaaHuQPQwFfXkvUmo08AMtko=.hash
+C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\obj\Debug\netstandard2.1\integrity\-2a3OULWa59cfhEZsDSCPxEWl1z2cTwcnmVIa9j0uTY=.hash
+C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\obj\Debug\netstandard2.1\integrity\iRZK7-qNZmBQQHIUiOKZWjdKBEimm2CCRtvvbH9iG1g=.hash
+C:\Users\onova\source\repos\BlankMapSolution\BlankMapProject\obj\Debug\netstandard2.1\integrity\_HtJ9_Fg1MPVdeVsgTzzpZ15voi5t1NM8iEslqxph5A=.hash

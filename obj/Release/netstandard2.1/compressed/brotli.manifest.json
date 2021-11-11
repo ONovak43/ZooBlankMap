@@ -1,22 +1,22 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UJkkffd0ztcdIyS5mu41FRtED0Zj9MC80_ZqnsYDvHE=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\dQWhenqACvGrjOwwYmCwodM3ipSvSFnizANEnfH7S-I=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlankMapProject.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BlankMapProject.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SSZQy_5882D2H_TgqipIXxG53-m9LySYUaz5hWQGwtc=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\cT2j8MrGyam4b1mvqcpW2rQUctXxd45O3kzoZrV7Qy4=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\t4nzcZKJL_7oAkqMc8fLPmQYEYyHJY_8CEYHwzLOcIU=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\g_afhqyBkhfePS16dpkibVJakx9mfrzKtkT0nEx6B18=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ytsGD2vUC-bdgebof1k6j01B2GWPtL3lxBZblxQwxqk=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\W_tWrxtea8nlLThTExam0pM334FbDIuvvt2LtPgmoJ4=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
     },
@@ -26,47 +26,47 @@
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\FYa9Hj6lov3s1MQqUZaEzvCDTyUfQYPsgUdspedWYvA=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\BoyG2px8_Jg5btJouyCb-sIb0lbnANiMTehLmf7OPp8=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\kI8L92H9Y4GO246uxhkw0ZURmkmgxmc2WSpo40qmGrk=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\kEkuWgRzlauYH-i56CvNQKzVS5azEsfExoraBTxvCHU=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Oyr8LhlkeX2CreYo-YrzYWMNxLL1g_HAnSFlyOqDKko=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ZeNWnTmGRirsLbg6Zxgp-JiUcWBVEmpQlTNX87THNIU=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\JNfk_HnW1oLDd4gotrF1wZRFrxJbz7rvjLfK-IBLNCc=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\y20A8yzCxmJAMD41ephELnDJWzEmWOgd4Dpa7-kSWMs=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\tccBOJdSkHNkh6Xo2e-U9Jut0alcKZqAhMx3zu1OkTw=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\M1VLTeC-QNcaiHZkdtQJTHpcEVT4qni1_HiYCvmupuE=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ddteXPTiknMIRs34tJ9CksRPZWShrjuNRPPRmNAcYec=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Oq2F4MEGP-NtOVoHpJ9VqPqJw9vrw5Y7j8wrvcpnG18=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3mvOKyAHpyuHygr8jmc1TlXG-lPWB9mtlzOVOBi4ROE=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\bOoRmDqW5dTXe9YsCQ_piFl0xw5CR9lyy6PAteKP3Cg=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\joGIOktFokEBo8U9q6lGZhke3Oyut0pSyN_53JrsTSg=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ifOcpze4xvGIMvBp6cjlMbXkd984tb55Jlt5_WwfSkA=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\U52SkAFXpWJWQ1RlGtuARuUo2WAUtz88m6P4evcm9fg=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\qylkNJR9RSSXx_F3nqkYEDSykYH_gZhx4g0OiiZF4Jg=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
     },
@@ -81,52 +81,52 @@
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ZTHBejriyUvCaF65ZB3ausmF5-vo9PtQqpG66XV7ntw=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jKJBNc4ccMwjBCVlPmH5A4yFiDuMJgd4GVKsTcVKPPM=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\GMdOm3QGpoO_5lbRAe_QjmGYuAAC6c5NAb7AM2eaqRY=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\gWUctV-EU7VKYtcYSuBX49WWPilpHo2taUZEIuB3Dbw=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\d_xJJ2rqyAus3GPNX2Vtn1tKDskCTpXhyhSHzF8ers8=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\HAgw8_rf4EjLcoM-Tso9_bjD802-xuhmEernPm9FQ14=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\TkTrX0Ni3exvye3N3TNUu9Py2fkvQ62rUtE_5Qm38kk=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Y04Ag-M-oVGrIUKvmG6Z7r6-EoaIPYt6yMfOkB-di3s=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\kjP-Zgokz-uRerXS-BNbTPtOtMeF7oyWpGnj98RwV1w=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Vop0O5Ak34L4MwkOZ1612K6yZFxGj0IEvhg0GY5toUs=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\hDHBz8VBFbKEchX-faa5YSnujC9XZhtXVtpJGbA0O08=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\bJnCXyyp_e5pRVxhYvX3i-Y8Szf5clGgn3Zyay-6wTo=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Mz57WC4nWEAQpQfTexyr7dqR2ifiDclbkNwFCg32JkU=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\int_pERcYXj-o0HNIMmbMNw0SIECOn9aD2jXW8j5w3I=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\b1cFtyyo-CLfoOCdc18i9zQ1iutnht05-vucFGsj6sE=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_f9bM1TSNdL-1cgFUwBazLSnvRi8M4TkfvbLcFAE5UE=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Tkki_9NjingnkqDJAuttZrGJn5_AIKDBxaTejrTDcqQ=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\8dk5fE5tkBldoXHHlrQ8K2Y1EQIKA0B44iBUtMeuCR0=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\qeGl6869dZTMlmFL1oAch5ZqhvOUlvs2sg9vHUjsXsw=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\DHkKWS0BSDxeO8woD5Mum7CUTzdGA1aK5am4XOnAmBI=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.br"
     },
@@ -151,12 +151,12 @@
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\6H4dBk7vseSJqy-0te46PpQCCTB-dQ9g037Nxishfrk=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\NBtWel52amzOZhd2TrYFfF5FJMYfDcx6ikHp3U6rvLc=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\qY3ub_nCGcaMR-iGtdG1rGYePqHMVNc51nu9dlYfKyQ=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\EF4Q4sDiD-cQkqNNqxFrC7oqjjH2WNLW_YIT41A8QQ4=.hash",
       "Source": "C:\\Users\\onova\\source\\repos\\BlankMapSolution\\BlankMapProject\\obj\\Release\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }

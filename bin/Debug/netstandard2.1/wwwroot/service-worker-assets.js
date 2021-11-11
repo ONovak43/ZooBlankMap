@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-RpA2V6AmnLZiAW\/aroe6GySbRag1wc\/dHeb44\/gzfIE=",
+      "hash": "sha256-knOCdw5BAsQz7wlKyFBUYKyLvF7j361KlpKzbGe4cC4=",
       "url": "css\/app.css"
     },
     {
@@ -81,7 +81,7 @@
       "url": "img\/pageimage.png"
     },
     {
-      "hash": "sha256-QaVvB2LJHxv8W3m0TvqR21g6ubQPmF1b0x7qTkyCTJs=",
+      "hash": "sha256-yWEroGLIDePWvyVm2lq26zakj0PiX1c5RfSgajlKrk8=",
       "url": "index.html"
     },
     {
@@ -125,7 +125,7 @@
       "url": "svg.min.js.map"
     },
     {
-      "hash": "sha256-hzV5YyQ1EJkopwOx39ueZ6cv0x789buTbw74gs6q330=",
+      "hash": "sha256-cFirNFEKkzKvP0gxoPlJaaHuQPQwFfXkvUmo08AMtko=",
       "url": "_framework\/_bin\/BlankMapProject.dll"
     },
     {
@@ -333,7 +333,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-TQ7bJq5lCTn13fjA\/SZhZpAW+a\/VAkReZadRVWHFevQ=",
+      "hash": "sha256-\/2a3OULWa59cfhEZsDSCPxEWl1z2cTwcnmVIa9j0uTY=",
       "url": "_framework\/_bin\/BlankMapProject.pdb"
     },
     {
@@ -353,9 +353,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-X4Eotn5zSRx1fqBnhjHBDLftfeGyeAOIcaVjn6OZ8js=",
+      "hash": "sha256-iRZK7\/qNZmBQQHIUiOKZWjdKBEimm2CCRtvvbH9iG1g=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "NJlRNl2k"
+  "version": "FpfqTZ0R"
 };
